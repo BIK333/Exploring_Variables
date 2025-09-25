@@ -1,0 +1,14 @@
+D:\Profiles\bik8841\source\repos\Exploring_Variables\Exploring_Variables\obj\Debug\net8.0\Exploring_Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profiles\bik8841\source\repos\Exploring_Variables\Exploring_Variables\obj\Debug\net8.0\Exploring_Variables.AssemblyInfoInputs.cache
+D:\Profiles\bik8841\source\repos\Exploring_Variables\Exploring_Variables\obj\Debug\net8.0\Exploring_Variables.AssemblyInfo.cs
+D:\Profiles\bik8841\source\repos\Exploring_Variables\Exploring_Variables\obj\Debug\net8.0\Exploring_Variables.csproj.CoreCompileInputs.cache
+D:\Profiles\bik8841\source\repos\Exploring_Variables\Exploring_Variables\bin\Debug\net8.0\Exploring_Variables.exe
+D:\Profiles\bik8841\source\repos\Exploring_Variables\Exploring_Variables\bin\Debug\net8.0\Exploring_Variables.deps.json
+D:\Profiles\bik8841\source\repos\Exploring_Variables\Exploring_Variables\bin\Debug\net8.0\Exploring_Variables.runtimeconfig.json
+D:\Profiles\bik8841\source\repos\Exploring_Variables\Exploring_Variables\bin\Debug\net8.0\Exploring_Variables.dll
+D:\Profiles\bik8841\source\repos\Exploring_Variables\Exploring_Variables\bin\Debug\net8.0\Exploring_Variables.pdb
+D:\Profiles\bik8841\source\repos\Exploring_Variables\Exploring_Variables\obj\Debug\net8.0\Exploring_Variables.dll
+D:\Profiles\bik8841\source\repos\Exploring_Variables\Exploring_Variables\obj\Debug\net8.0\refint\Exploring_Variables.dll
+D:\Profiles\bik8841\source\repos\Exploring_Variables\Exploring_Variables\obj\Debug\net8.0\Exploring_Variables.pdb
+D:\Profiles\bik8841\source\repos\Exploring_Variables\Exploring_Variables\obj\Debug\net8.0\Exploring_Variables.genruntimeconfig.cache
+D:\Profiles\bik8841\source\repos\Exploring_Variables\Exploring_Variables\obj\Debug\net8.0\ref\Exploring_Variables.dll

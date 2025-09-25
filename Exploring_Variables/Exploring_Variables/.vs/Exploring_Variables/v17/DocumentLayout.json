@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Profiles\\bik8841\\source\\repos\\Exploring_Variables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9D8377-1047-4ED3-B9B6-AD977A786934}|Exploring_Variables\\Exploring_Variables.csproj|d:\\profiles\\bik8841\\source\\repos\\exploring_variables\\exploring_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9D8377-1047-4ED3-B9B6-AD977A786934}|Exploring_Variables\\Exploring_Variables.csproj|solutionrelative:exploring_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Profiles\\bik8841\\source\\repos\\Exploring_Variables\\Exploring_Variables\\Program.cs",
+              "RelativeDocumentMoniker": "Exploring_Variables\\Program.cs",
+              "ToolTip": "D:\\Profiles\\bik8841\\source\\repos\\Exploring_Variables\\Exploring_Variables\\Program.cs",
+              "RelativeToolTip": "Exploring_Variables\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:16:45.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
